@@ -30,7 +30,7 @@ def platt_calibration(f, y):
     References
     ----------
     J. Platt, "Probabilistic outputs for support vector machines and comparisons to 
-              "regularized likelihood methods. Advances in large margin classifiers,"
+              regularized likelihood methods," Advances in Large Margin Classifiers,
               10(3), pp.61-74, 1999.
     """
 
