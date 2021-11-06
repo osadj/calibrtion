@@ -12,7 +12,7 @@ from scipy.optimize import fmin_l_bfgs_b
 
 
 def platt_calibration(f, y):
-    """Clasifier output calibration using logistic regression (aka Platt Scaling)
+    """Classifier output calibration using logistic regression (aka Platt Scaling)
     Parameters
     ----------
     f : ndarray of shape (n_samples, n_features)
